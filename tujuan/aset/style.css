@@ -1,0 +1,33 @@
+th{
+   font-size: 13px;
+}
+
+tbody{
+   font-size: 12px;
+}
+
+.card-title{
+   font-size: 25px;
+}
+
+input{
+   width: 80%;
+}
+
+
+
+@media (min-width: 992px) {
+   th{
+      font-size: 15px;
+   }
+
+   tbody{
+      font-size: 14px;
+   }
+   
+   .card-title{
+      font-size: 30px;
+
+   }
+
+}
